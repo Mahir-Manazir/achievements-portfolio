@@ -7,7 +7,7 @@
 - **Description**: A multi-functional calculator with geometry, finance, and temperature tools.
 - **Skills**: Functions, loops, conditionals, math module
 - **[View Code]( https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/Everything-Calculator.py.py)**
-<br>
+  
 ### 2. To-Do List App (GUI)
 - **Date**: January 2025  
 - **Description**: GUI task manager built with Tkinter.
