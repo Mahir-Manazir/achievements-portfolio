@@ -9,7 +9,7 @@
 - **[View Code]( https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/Everything-Calculator.py.py)**
   
 ### 2. To-Do List App (GUI)
-- **Date**: January 2025  
+- **Date**: January 2026 
 - **Description**: GUI task manager built with Tkinter.
 - **Skills**: Tkinter, event-driven programming, GUI layout
 - **[View Code](https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/to-do-list.py)**
