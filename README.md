@@ -1,6 +1,6 @@
 🍍🍍🍍A collection of my Python projects, showing progression from beginner to advanced.🍍🍍🍍
 
-🍍🍍🍍Projects🍍🍍🍍
+<h1>🍍🍍🍍Projects🍍🍍</h1>
 
 ### 1. Scientific Calculator (Terminal)
 - **Date**: December 2025
