@@ -19,6 +19,8 @@
 # achievements-portfolio
 🍍🍍🍍A collection of my achievements or certificates.🍍🍍🍍
 
-###Scratch Certificate: 
+### Scratch Certificate: 
 https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/scratch-certificate.pdf
 
+### Python Certificate  
+https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/Python%20Basics%20Certificate.png
