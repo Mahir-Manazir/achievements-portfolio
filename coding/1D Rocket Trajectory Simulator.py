@@ -1,11 +1,12 @@
 import matplotlib.pyplot as plt
+import numpy as np
 def rocket_launch(mass, thrust):
     velocity = 0
     time = 0
     gravity = 9.8
     height = 0
-    heights = []
-    times = []
+    heights = np.array([])
+    times = np.array([])
     drymass = 0.1*mass
 
     print("3,2,1!")
@@ -18,8 +19,10 @@ def rocket_launch(mass, thrust):
         time = time + 1 
         mass = mass - 1 
         
-        heights.append(height)
-        times.append(time)
+        heights = np.append(heights, height) 
+        times = np.append(times,  time)
+
+        
 
     plt.plot(times, heights) 
     plt.xlabel("Time(s)") 
@@ -30,6 +33,4 @@ def rocket_launch(mass, thrust):
     print(f"The rocket successfully reached a height of {height}")
     print(f"It took us {time} seconds")
 
- 
 
-rocket_launch(mass=2000, thrust=20000)
