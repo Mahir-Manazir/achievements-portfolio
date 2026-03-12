@@ -14,7 +14,7 @@
 - **Date**: March 2026
 - **Description**: A simple calculator that can be used in the browser
 - **Skills**: HTML, CSS, Javascript
-- [View Code] (https://github.com/Mahir-Manazir/Web-developing-projects/tree/main/calculator)
+- [View Code](https://github.com/Mahir-Manazir/Web-developing-projects/tree/main/calculator)
 - notes: Built this by myself at age 14 while learning Web Developing.
 
 
