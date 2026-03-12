@@ -6,8 +6,7 @@
 - **Date**: March 2026
 - **Description**: A rocket trajectory simulator based on physics that models real rocket launch mechanics using Newtonian physics, calculates real-time height, velocity, and acceleration based on thrust, mass, and gravitational forces. 
 - **Skills**: Object Oriented Programming
-- [View Code]([https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/oneDrocket_simulator(OOP).py
-))
+- [View Code]([https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/oneDrocket_simulator(OOP).py)
 - notes: Built this by myself while learning physics and Object Oriented Programming. It changed my programming style from functional programming to Opbject Oriented programming.
 
 
@@ -15,7 +14,7 @@
 - **Date**: March 2026
 - **Description**: A simple calculator that can be used in the browser
 - **Skills**: HTML, CSS, Javascript
-- [View Code]([https://github.com/Mahir-Manazir/achievements-portfolio/blob/main/coding/1D%20Rocket%20Trajectory%20Simulator.py](https://github.com/Mahir-Manazir/Web-developing-projects/tree/main/calculator))
+- [View Code] (https://github.com/Mahir-Manazir/Web-developing-projects/tree/main/calculator)
 - notes: Built this by myself at age 14 while learning Web Developing.
 
 
