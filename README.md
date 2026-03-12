@@ -2,7 +2,7 @@
 
 <h1>🍍🍍🍍Projects🍍🍍</h1>
 
-### 4. 1D Rocket Trajectory Simulator (Programmed using Object Oriented programming)
+### 5. 1D Rocket Trajectory Simulator (Programmed using Object Oriented programming)
 - **Date**: March 2026
 - **Description**: A rocket trajectory simulator based on physics that models real rocket launch mechanics using Newtonian physics, calculates real-time height, velocity, and acceleration based on thrust, mass, and gravitational forces. 
 - **Skills**: Object Oriented Programming
